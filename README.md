@@ -4,7 +4,7 @@ A cross-platform mobile application built with React Native that allows users to
 
 ## 📁 Project Structure
 
-```
+```bash
 Meal_Database_React_Native/
 ├── backend/        # Node.js + Express backend for meal data
 ├── mobile/         # React Native frontend application
