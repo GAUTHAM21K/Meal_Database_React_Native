@@ -76,8 +76,4 @@ npx react-native run-android  # or run-ios
 - Improve UI/UX with animations  
 - Deploy backend to cloud (e.g., Render, Heroku)  
 
-## 👨‍💻 Author
 
-**Gautham Krishna R**  
-Final-year Computer Science Engineering student  
-GitHub: [GAUTHAM21K](https://github.com/GAUTHAM21K)
